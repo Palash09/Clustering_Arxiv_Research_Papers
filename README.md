@@ -12,4 +12,4 @@ usage at different instances. For better visualization, top 10 research paper au
 
 ![Keyword_Search](https://github.com/Palash09/Clustering_Arxiv_Research_Papers/blob/master/Keyword_Search_Result.png)
 ![Vis_1](https://github.com/Palash09/Clustering_Arxiv_Research_Papers/blob/master/Vis_1.png)
-![Vis_2](https://github.com/Palash09/Clustering_Arxiv_Research_Papers/blob/master/Vis_2.png)
+
